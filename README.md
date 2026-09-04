@@ -1,4 +1,4 @@
-# Maia KDE — Port a Plasma 6
+# Maia — Port a Plasma 6
 
 ![Plasma](https://img.shields.io/badge/Plasma-6.x-blue) ![Estado](https://img.shields.io/badge/estado-listo-success) ![Licencia](https://img.shields.io/badge/licencia-GPLv3-lightgrey)
 
@@ -12,7 +12,7 @@ Este repositorio toma esa identidad visual y la porta a KDE Plasma 6, sobre Qt6 
 
 El cambio de Plasma 5 a Plasma 6 trae consigo un cambio de runtime (Qt5 a Qt6) y de convenciones de metadatos en KPackage. Un tema pensado y empaquetado para Plasma 5 no se traslada de forma automática ni segura a Plasma 6: las rutas de instalación, la forma de declarar metadatos de un Look-and-Feel y la manera en que Plasma resuelve iconos y esquemas de color han cambiado lo suficiente como para que una instalación heredada deje componentes a medio aplicar o directamente inutilizables.
 
-Maia, además, tiene una particularidad frente a Arc y Materia: incluye su propio conjunto de iconos. Instalar iconos correctamente en el sistema requiere respetar la convención de directorios de temas de iconos (`icons/<NombreDelTema>/...`) para que el sistema de resolución de iconos de Qt/KDE los reconozca como un tema completo y no como archivos sueltos. Este repositorio se encarga de aplicar esa convención de forma consistente.
+Maia, además, tiene una particularidad frente a Arc y Materia: incluye su propio conjunto de iconos. Instalar iconos correctamente en el sistema requiere respetar la convención de directorios de temas de iconos (`icons/<Nombredeltema>/...`) para que el sistema de resolución de iconos de Qt/KDE los reconozca como un tema completo y no como archivos sueltos. Este repositorio se encarga de aplicar esa convención de forma consistente.
 
 ## Qué se conserva y qué se moderniza
 
