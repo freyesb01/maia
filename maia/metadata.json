@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/Theme",
+    "KPlugin": {
+        "Id": "maia",
+        "Name": "Maia",
+        "Description": "New green for Plasma Desktop",
+        "Version": "0.5.0",
+        "License": "CC-BY-SA-4.0",
+        "Category": "Plasma Theme",
+        "EnabledByDefault": true,
+        "Authors": [
+            {
+                "Name": "David Linares (Mcder3)",
+                "Email": "mcder3@gmail.com"
+            }
+        ]
+    },
+    "X-Plasma-API": "6.0"
+}

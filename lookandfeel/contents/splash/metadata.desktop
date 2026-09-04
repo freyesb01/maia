@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Maia
+Comment=Maia Splash Screen
+Type=Service
+X-KDE-ServiceTypes=KSplash/Plugin
+X-KDE-PluginInfo-Name=Maia
+X-KDE-PluginInfo-Author=David Linares (Mcder3)
+X-KDE-PluginInfo-Email=mcder3@gmail.com
+X-KDE-PluginInfo-License=GPL-2.0-or-later
+X-KDE-PluginInfo-Version=0.5.0

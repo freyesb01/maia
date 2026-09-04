@@ -1,0 +1,15 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Id": "org.kde.maiadark",
+        "Name": "Maia Dark",
+        "Description": "New green for Plasma Desktop (Dark)",
+        "Version": "0.2.0",
+        "License": "GPL-2.0-or-later",
+        "Authors": [
+            {
+                "Name": "Manjaro Team"
+            }
+        ]
+    }
+}

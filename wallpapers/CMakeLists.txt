@@ -1,0 +1,4 @@
+install(
+    DIRECTORY Maia/
+    DESTINATION ${KDE_INSTALL_WALLPAPERDIR}/Maia
+)

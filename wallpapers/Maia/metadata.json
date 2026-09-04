@@ -1,0 +1,14 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Id": "Maia",
+        "Name": "Maia",
+        "Version": "0.5.0",
+        "License": "CC-BY-SA-4.0",
+        "Authors": [
+            {
+                "Name": "Mcder3"
+            }
+        ]
+    }
+}

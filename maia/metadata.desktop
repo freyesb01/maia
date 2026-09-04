@@ -1,0 +1,21 @@
+[Desktop Entry]
+Name=Maia
+Name[es]=Maia
+comment=New green for Plasma Desktop
+Comment[es]=Un nuevo verde para Plasma Desktop
+X-KDE-PluginInfo-Author=David Linares (Mcder3)
+X-KDE-PluginInfo-Email=mcder3@gmail.com
+X-KDE-PluginInfo-Name=maia
+X-KDE-PluginInfo-Version=0.5.0
+X-KDE-PluginInfo-Website=https://plus.google.com/u/0/115920115946572175775/
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=CC BY-SA
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[Wallpaper]
+defaultWallpaperTheme=Maia
+defaultFileSuffix=.png
+defaultWidth=1920
+defaultHeight=1080
