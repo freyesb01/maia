@@ -155,7 +155,7 @@ Algunos puntos de este archivo merecen explicación aparte:
 
 ## Compilación e instalación
 
-Primero obtén el código fuente. Sustituye `<usuario-de-github>` por la cuenta u organización real donde esté alojado el repositorio:
+Primero obtén el código fuente.
 
 ```bash
 git clone https://github.com/freyesb01/maia.git
